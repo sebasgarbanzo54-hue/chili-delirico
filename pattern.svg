@@ -1,0 +1,47 @@
+export const products = [
+  {
+    id: 'salsa-picante',
+    name: { es: 'Salsa Picante', en: 'Hot Sauce' },
+    pepper: { es: 'Chile Panameño', en: 'Panamanian pepper' },
+    heat: 4,
+    image: '/bottle-green.svg',
+    description: {
+      es: 'Receta clásica artesanal, balanceada y llena de sabor costarricense.',
+      en: 'Classic artisan recipe, balanced and full of Costa Rican flavor.'
+    },
+    variants: [
+      { sizeMl: 150, price: 3000 },
+      { sizeMl: 280, price: 4000 }
+    ]
+  },
+  {
+    id: 'salsa-extra-picante',
+    name: { es: 'Salsa Extra Picante', en: 'Extra Hot Sauce' },
+    pepper: { es: 'Carolina Reaper', en: 'Carolina Reaper' },
+    heat: 5,
+    image: '/bottle-red.svg',
+    description: {
+      es: 'Picor intenso para quienes buscan una experiencia fuerte y memorable.',
+      en: 'Intense heat for those who want a bold, memorable experience.'
+    },
+    variants: [
+      { sizeMl: 150, price: 3000 },
+      { sizeMl: 280, price: 4000 }
+    ]
+  },
+  {
+    id: 'salsa-ahumada',
+    name: { es: 'Salsa Picante Ahumada', en: 'Smoked Hot Sauce' },
+    pepper: { es: 'Panameño + barbacoa', en: 'Panamanian pepper + barbecue' },
+    heat: 4,
+    image: '/bottle-brown.svg',
+    description: {
+      es: 'Notas ahumadas ideales para carnes, parrilladas y comidas caseras.',
+      en: 'Smoky notes ideal for meats, barbecue and homemade meals.'
+    },
+    variants: [
+      { sizeMl: 150, price: 3000 },
+      { sizeMl: 280, price: 4000 }
+    ]
+  }
+]
