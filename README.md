@@ -4,7 +4,7 @@
 
 ---
 
-## 🇨🇷 Sobre la marca
+## Sobre la marca
 
 Chili DeliRico es una marca familiar costarricense inspirada en recetas tradicionales transmitidas por generaciones.
 Nuestras salsas son 100% naturales, sin gluten y elaboradas a fuego lento para lograr un sabor auténtico.
